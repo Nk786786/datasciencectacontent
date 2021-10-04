@@ -18,7 +18,7 @@ As a participant and Community Mentor in courses in the curriculum, there are pa
 
 The remainder of this document serves as a directory of the content, aligning individual documents with the course\(s\) for which the content is relevant.
 
-## Course 1: Data Scientist's Toolbox
+## Course 01: Data Scientist's Toolbox
 
 1. [Course Prerequisites and Difficulty Levels](http://bit.ly/2e6y3nn) Provides an overview of the Data Science Specialization courses, explaining from a practical perspective the courses a student needs as prerequisites to other courses. While students may take more than one class at a time, it's important to know how information from earlier courses is used in subsequent ones. <br><br> The article also ranks the difficulty levels from most to least difficult, based on the author's experience in the curriculum as well as Discussion Forum feedback contributed by other students.
 1. [Configuring RStudio to work with git / github - Mac OSX](http://bit.ly/2c9Q2bf)
@@ -37,7 +37,7 @@ If you're interested in the URLs for the lecture slides, they are available in t
 1. [The Future of Data Analysis](http://bit.ly/2uC9atX) by John Tukey, 1962 paper where he challenges statisticians to move away from ever more complicated mathematics to tackle data analysis problems in more realistic ways.
 2. [50 Years of Data Science](http://bit.ly/2tKcaQu) by David Donoho, a 2015 retrospective on John Tukey's 1962 paper.
 
-## Course 2: R Programming
+## Course 02: R Programming
 
 ### START HERE
 
